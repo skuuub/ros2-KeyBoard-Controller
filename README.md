@@ -1,7 +1,7 @@
 # Turtle Key Controller
 
 <!-- Add a screenshot or GIF of the node in action -->
-![TurtleKeyController Demo](images/demo.gif)
+![Keyboard Controller Demo](Screenshot 2025-06-06 at 18.35.13.png)
 
 
 
