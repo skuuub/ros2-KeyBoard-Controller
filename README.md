@@ -86,6 +86,3 @@ A simple ROS 2 Python node that allows controlling the turtlesim turtle using ke
 
 This project is licensed under the MIT License. See [LICENSE](LICENSE) for details.
 
-## Author
-
-Oluwabukunmi Jaiyeola
