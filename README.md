@@ -1,4 +1,4 @@
-# Turtle Key Controller
+# TurtleBot KeyBoard Controller
 
 <!-- Add a screenshot or GIF of the node in action -->
 ![Keyboard Controller Demo](https://github.com/skuuub/ros2-KeyBoard-Gesture-Controller/blob/e8ba4ed3451921a11683675686c52c1bbd89e7c7/Screenshot%202025-06-06%20at%2018.35.05.png)
